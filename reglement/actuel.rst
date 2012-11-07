@@ -1,12 +1,12 @@
+================
 Règlement actuel
-++++++++++++++++
+================
 
-Inscription à la section
-========================
+1. Inscription à la section
+===========================
 
-Types d'inscription
--------------------
-
+1.1. Types d'inscription
+------------------------
 
 La section étant un sous-groupe du Parti-Pirate, seuls les membres du Parti
 Pirate, tels que décrits dans le chapitre "Composition de l’association" des
@@ -24,8 +24,9 @@ Les membres du Parti Pirate qui souhaitent participer aux activités de la
 section sans être membre de la section peuvent être inscris au titre
 d'"invité".
 
-Critères d'admission
---------------------
+
+1.2. Critères d'admission
+-------------------------
 
 Seuls sont habilités à être inscrits dans une section locale les membres ayant
 un lien avec la zone géographique.
@@ -36,20 +37,23 @@ En cas de litige, dans le cas où le membre conteste son refus d'admission au
 motif qu'il ne remplit pas les critères, la CN est habilité à arbitrer. La
 saisine est à la charge du membre non admis et n'est pas suspensive.
 
-Liste des inscrits
-------------------
+
+1.3. Liste des inscrits
+-----------------------
 
 La section tient la liste de ses inscrits.
 
-Modes d'admission
------------------
+
+1.4. Modes d'admission
+----------------------
 
 L'admission au titre de membre de la section se fait sur demande, soit par
 mention sur le bulletin d'adhésion au Parti Pirate lorsque celui-ci le permet,
 soit d'une autre manière auprès de la personne en charge des adhésions.
 
-Données à caractère privé
--------------------------
+
+1.5. Données à caractère privé
+------------------------------
 
 La liste des inscrits et les autres fichiers de données à caractère personnel
 doivent être protégées par les personnes en charge. Les sections locales ne
@@ -61,32 +65,37 @@ les fuites et les accès frauduleux. Les traitement auxquels seront soumis ces
 données (finalité, accès, interconnexion...) feront l'objet d'une déclaration
 au registre I&L interne et d'une validation par le CAP et le référent CNIL
 éventuel. En l'absence de tel registre, toutes les données à caractère
-personnel sont
-réservés à un usage interne, d’accès limité, et ne sont pas communiquées à des
-tiers.
+personnel sont réservés à un usage interne, d’accès limité, et ne sont pas 
+communiquées à des tiers.
 
-Modes de scrutin
-================
+2. Modes de scrutin
+===================
 
 Les décisions votées sont votées selon les modes prévus au règlement intérieur
 du Parti Pirate.
+
 Afin de donner à chacun la chance de participer, seuls les points à l'ordre du
 jour annoncés avec la convocation au moins 7j à l'avance peuvent être votés.
 Le vote peut être fait à main levée, sauf s'il est demandé par au moins un
 membre actif présent de procéder à bulletin secret.
+
 Les convocations sont faites par mail ou dans la Mailing List de la section
 locale.
+
 Les votes sont tenus dans le lieu habituel de réunion, ou à défaut dans un
 endroit se trouvant dans la zone et les horaires des transports en commun.
 Les procurations sont autorisées (pas plus d'une par personne). Le mandant
 annonce publiquement qui est son mandaté.
+
 Le vote par correspondance est autorisé, mais pas à bulletin secret. Le votant
 doit annoncer son vote publiquement et il sera pris en compte au moment du
 vote.
+
 Un adhérent ayant adhéré depuis moins de 7 jours peut obtenir sur demande
 une dérogation lui permettant exceptionnellement de voter. Le quorum (c'est
 à dire les membres présents ou représentés) est fixé à 20% d'adhérents, mais
 ne saurait être moins de 4. Ce quorum peut-être modifié sur décision du CN.
+
 Pour obtenir le droit de vote dans la section, un participant doit être
 adhérent au Parti Pirate et l'adhésion doit avoir été validée par les
 instances nationales, ou sur dérogation le jour du vote. Un invité participant
@@ -96,8 +105,9 @@ Le quorum d'adhérent doit toujours être supérieur à deux fois le nombre
 d'invités votants. Les dérogations pour permettre de voter seront apportées
 par le coordinateur après validation par au moins 50% des adhérents présents.
 
-Vote électronique
------------------
+
+2.1. Vote électronique
+----------------------
 
 La Section Locale promeut l’utilisation des moyens de communication
 électronique afin de permettre au plus grand nombre de participer à la vie de
@@ -118,8 +128,9 @@ scrutin :
   procédure mise en place aux points 11.5 du Règlement Intérieur du Parti
   Pirate.
 
-Affectation des mandats au sein de la section
-=============================================
+
+3. Affectation des mandats au sein de la section
+================================================
 
 Mandats obligatoires de la Section Locale :
 
@@ -173,8 +184,9 @@ l'organisation de cette réunion et du vote (en particulier dans le cas où les
 demandeurs souhaitent que ce ne soit pas la(les) personne(s) à remplacer qui
 s'occupe(nt) de cette réunion et de ce vote).
 
-Pratique des activités politiques
-=================================
+
+4. Pratique des activités politiques
+====================================
 
 Pour participer à une session, les adhérents et invités présents devront
 obligatoirement :
@@ -188,8 +200,9 @@ obligatoirement :
 En dehors des sessions, la Section Locale ne peut être tenue pour responsable
 des faits de ses membres.
 
-Invités
-=======
+
+5. Invités
+==========
 
 Les invités sont les bienvenus aux sessions ouvertes au public.
 Chaque adhérent peut demander au coordinateur ou à l'animateur d’une session non
@@ -205,8 +218,9 @@ Les invités mineurs devront fournir une attestation d’autorisation parentale
 (une autorisation parentale à portée générale est suffisante pour que le
 mineur assiste à plusieurs réunions).
 
-Matériel et locaux
-==================
+
+6. Matériel et locaux
+=====================
 
 Les membres et invités s’engagent à respecter le matériel et les locaux mis à
 leur disposition.
@@ -215,8 +229,9 @@ session (adhérent qui encadre l'evénement, de préférence l'animateur) et/ou
 tout membre élu se réserve le droit d’interdire la participation à l'activité
 politique de la Section Locale en cours.
 
-Perte de la qualité d'adhérent de la section
-============================================
+
+7. Perte de la qualité d'adhérent de la section
+===============================================
 
 La qualité d'adhérent de la section se perd :
 
@@ -233,14 +248,16 @@ pour les fournir (minimum 15 jours).
 L'adhérent exclu ou radié peut effectuer un recours devant la CodeC du Parti
 Pirate s'il s'estime lésé par la procédure d'exclusion ou de radiation.
 
-Affiliation
-===========
+
+8. Affiliation
+==============
 
 La Section Locale est affiliée au Parti Pirate. Elle s'engage à se conformer
 entièrement aux statuts et aux règlements du Parti Pirate.
 
-Règles d’engagement budgétaire
-==============================
+
+9. Règles d’engagement budgétaire
+=================================
 
 Une dépense peut être engagée après approbation du trésorier de la Section
 et validation de la dépense par le coordinateur, ou en cas
