@@ -9,3 +9,4 @@ Sommaire :
 
     reglement/index.rst
     reunions/index.rst
+    rapports_activite/index.rst

@@ -1,0 +1,40 @@
+===================================
+Rapport d'activité de novembre 2012
+===================================
+
+Constitution de la Section Locale
+=================================
+
+Adoption d'un `règlement`_ et d'un `logo`_
+
+.. _règlement: http://docs.pplorraine.progval.net/reglement/actuel.html
+.. _logo: http://share.progval.net/pp/logo-ohax-1.svg
+
+Résultats des élections législatives
+====================================
+
+Un candidat s'est présenté au nom du Parti Pirate en Lorraine :
+Édouard Klein dans la troisième circonscription de la Moselle.
+Résultat : 0.35% (des inscrits, et 0.67% des exprimés)
+
+Avancement du site web
+======================
+
+Nous sommes sur le point d'obtenir un espace web sur les serveur du
+Parti Pirate. Nous allons mettre une page temporaire de présentation
+rapide du PP Lorraine avant de mettre en place un vrai site (Manuel nous
+en avait promis un pour mi-aout, mais il a pris du retard)
+
+Presse
+======
+
+* Publication dans l'Est Républicain (principal quotidien de l'Est) à l'occasion des législatives
+* Présentation du Parti Pirate dans le Graoully Déchaîné : http://legraoullydechaine.fr/2012/07/06/le-parti-pirate-a-labordage-de-la-lorraine/
+
+Réunions
+========
+* 10 juin
+* 1er juillet
+* 7 septembre
+* 6 novembre => comte-rendu : https://lorraine.pad.partipirate.org/ep/pad/view/64/rev.1405
+
