@@ -41,7 +41,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Documentation du Parti Pirate Lorraine'
-copyright = u'2012, Parti Pirate Lorraine'
+copyright = u'2012, Parti Pirate Lorraine (licence CC-BY)'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
