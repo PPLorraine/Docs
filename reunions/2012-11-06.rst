@@ -72,7 +72,7 @@ Décisions
 Adoption d'un règlement intérieur
 ---------------------------------
 
-Choix du `règlement « Harpalos » <reglement>`_ comme RI temporaire.
+Choix du :ref:`règlement « Harpalos » <reglement>` comme RI temporaire.
 
 Pour rappel voici le travail qui avait déjà été fourni : https://lorraine.pad.partipirate.org/59
 
