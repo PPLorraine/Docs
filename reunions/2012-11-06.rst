@@ -1,0 +1,114 @@
+============================================================
+Compte-rendu de la rencontre IRL du 6 novembre 2012 sur Metz
+============================================================
+
+Pour rappel : Pad préparatoire à la rencontre IRL : https://lorraine.pad.partipirate.org/61
+
+Émargement
+==========
+
+Participants
+------------
+
+* Ohax (David)
+* ProgVal (Valentin Lorentz)
+* Sims (Simon)
+* Fonz (Vincent / Vince)
+* Stéphane Klein
+* Sébastien Keim
+
+Absents excusés
+---------------
+
+* MindHack (Yohan) et son amie qui devait l'accompagner
+* Édouard
+
+Observateurs
+------------
+
+* Anne-Sophie - Accompagne Ohax
+* Valérie - Futur adhérente
+* Vincent - Étudiant en journalisme
+* MiRAAAbelle et un pote - Intéressés par le parti, l'un des deux va s'inscrire
+
+Membres qui souhaitaient suivre à distance
+------------------------------------------
+
+Ils n'ont pas pu faute de Wifi / 3G sur place
+
+* Conundrum
+* Édouard, absent
+
+Élections
+=========
+
+Coordinateur
+------------
+
+* Valentin Lorentz (ProgVal) Coordinateur
+* Pas de co-coordinateurs pour le moment
+
+Chargé des adhésions
+--------------------
+
+* Stéphane Klein (contact@stephane-klein.info)
+
+responsables de communication interne/externe (animateurs)
+----------------------------------------------------------
+
+* Ohax (David) - Nancy
+* Fonz (Vincent / Vince) - Metz
+
+Équipe technique
+----------------
+
+* Ohax (David)
+* Valentin Lorentz (ProgVal)
+* Stéphane Klein
+
+Décisions
+=========
+
+Adoption d'un règlement intérieur
+---------------------------------
+
+Choix du `règlement « Harpalos » <reglement>`_ comme RI temporaire.
+
+Pour rappel voici le travail qui avait déjà été fourni : https://lorraine.pad.partipirate.org/59
+
+Choix d'un canal de communication principal en interne
+------------------------------------------------------
+
+* Le forum devra désormais être utilisé comme canal principal de communication.
+* La ML pourra néanmoins être utilisée pour annoncer de nouveaux sujets, mais il devront être uniquement débattu sur le forum.
+
+Utilisation des pseudo ou des noms ?
+------------------------------------
+
+Pseudos autorisés
+
+Établissement d'un trombinoscope
+--------------------------------
+
+Solution technique à proposer, devra néanmoins être "privé".
+
+Adoption d'un logo pour la section locale
+-----------------------------------------
+
+Le logo voté est http://share.progval.net/pp/logo-ohax-1.svg - Attention, celui-ci n'a pas le défaut de débordement constaté sur la première version.
+
+Version "Cercle seul" : http://share.progval.net/pp/logo-ohax-1-cercle.svg
+
+PGP
+===
+
+Pensez à envoyer sur un serveur (par exemple pgp.mit.edu) les clefs que vous avez signées
+Liste des PGP validées et signées lors de l'IRL : 
+
+* Ohax (David), même si elle l'était déjà par Édouard lors d'une IRL précédente.
+* ProgVal (Valentin Lorentz)
+* Sims (Simon)
+* Stéphane Klein
+* Sébastien Keim
+
+PAD Dédié aux PGP : https://lorraine.pad.partipirate.org/pgp

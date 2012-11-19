@@ -8,3 +8,4 @@ Sommaire :
     :maxdepth: 2
 
     reglement/index.rst
+    reunions/index.rst

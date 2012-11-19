@@ -1,3 +1,5 @@
+.. _reglement:
+
 ================
 Règlement actuel
 ================
