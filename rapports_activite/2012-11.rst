@@ -36,5 +36,5 @@ Réunions
 * 10 juin
 * 1er juillet
 * 7 septembre
-* 6 novembre (:ref:`comte-rendu <reunions_2012-11-06>`)
+* 6 novembre (:ref:`compte-rendu <reunions_2012-11-06>`)
 
