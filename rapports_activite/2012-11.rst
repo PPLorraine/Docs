@@ -36,5 +36,5 @@ Réunions
 * 10 juin
 * 1er juillet
 * 7 septembre
-* 6 novembre => comte-rendu : https://lorraine.pad.partipirate.org/ep/pad/view/64/rev.1405
+* 6 novembre (:ref:`comte-rendu <reunions_2012-11-06>`)
 
